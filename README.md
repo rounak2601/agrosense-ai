@@ -20,7 +20,6 @@
 - [Project Structure](#-project-structure)
 - [Installation & Setup](#-installation--setup)
 - [How to Use](#-how-to-use)
-- [Screenshots](#-screenshots)
 - [Author](#-author)
 
 ---
@@ -99,8 +98,8 @@ streamlit run app.py
 ```
 Accuracy          : 99.32%
 Training Accuracy : 100.00%
-Testing Accuracy  :  99.32%
-Overfitting Gap   :   0.68%  ✅ Not overfitting
+Testing Accuracy  : 99.32%
+Overfitting Gap   : 0.68%  ✅ Not overfitting
 Trees             : 100
 Classes           : 22 crops
 ```
