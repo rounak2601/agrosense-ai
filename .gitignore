@@ -1,0 +1,13 @@
+# Ignore model files
+*.pkl
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+venv/
