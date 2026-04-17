@@ -8,6 +8,7 @@
 
 > An end-to-end Machine Learning web application that recommends the best crop to plant and predicts expected yield — built on 20+ years of Indian government farming data.
 
+🔗 **Live Web App:** [🚀 Click Here](https://agrosenseai-rt.streamlit.app/)
 ---
 
 ## 📌 Table of Contents
