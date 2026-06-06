@@ -1,4 +1,4 @@
-# 🌿 AgroSense AI — Smart Crop Intelligence for Indian Farmers
+# 🌿AgroSense AI — Smart Crop Intelligence for Indian Farmers
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.x-red?style=flat-square&logo=streamlit)
@@ -12,7 +12,7 @@
 
 ---
 
-## 📌 Table of Contents
+## Table of Contents
 - [Overview](#-overview)
 - [Live Demo](#-live-demo)
 - [Features](#-features)
@@ -26,7 +26,7 @@
 
 ---
 
-## 🌾 Overview
+## Overview
 
 **AgroSense AI** is a full-stack data science project that solves two real-world agriculture problems:
 
@@ -39,7 +39,7 @@ The application is built using **Random Forest** models trained on 2 real datase
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 
 Run locally with:
 ```bash
@@ -48,17 +48,17 @@ streamlit run app.py
 
 ---
 
-## ✨ Features
+## Features
 
-- **🌱 Crop Advisor** — Enter soil nutrients (N, P, K) and climate data to get instant AI-powered crop recommendation with confidence score and farming tips
-- **📈 Yield Predictor** — Select state, crop, season and farm area to get predicted yield in tonnes/hectare with comparison to national average
-- **📊 Data Insights** — Full EDA with 10+ interactive charts — histograms, heatmaps, box plots, pie charts, trend lines
-- **🗺️ Crop Map** — State-wise crop analysis with average yield, total production and area metrics
-- **📱 Professional Dashboard** — Clean green farming theme, radar chart soil profile, gauge chart yield meter
+- **Crop Advisor** — Enter soil nutrients (N, P, K) and climate data to get instant AI-powered crop recommendation with confidence score and farming tips
+- **Yield Predictor** — Select state, crop, season and farm area to get predicted yield in tonnes/hectare with comparison to national average
+- **Data Insights** — Full EDA with 10+ interactive charts — histograms, heatmaps, box plots, pie charts, trend lines
+- **Crop Map** — State-wise crop analysis with average yield, total production and area metrics
+- **Professional Dashboard** — Clean green farming theme, radar chart soil profile, gauge chart yield meter
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |---|---|
@@ -72,7 +72,7 @@ streamlit run app.py
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 ### Dataset 1 — Crop Recommendation
 | Property | Value |
@@ -94,9 +94,9 @@ streamlit run app.py
 
 ---
 
-## 📈 Model Performance
+## Model Performance
 
-### 🌱 Crop Recommendation — Random Forest Classifier
+### Crop Recommendation — Random Forest Classifier
 ```
 Accuracy          : 99.32%
 Training Accuracy : 100.00%
@@ -106,7 +106,7 @@ Trees             : 100
 Classes           : 22 crops
 ```
 
-### 📈 Yield Prediction — Random Forest Regressor
+### Yield Prediction — Random Forest Regressor
 ```
 R² Score  (Test) : 0.9936
 RMSE      (Test) : 0.0819 t/ha
@@ -123,7 +123,7 @@ Trees            : 100
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Crop Recommendation/
@@ -143,7 +143,7 @@ Crop Recommendation/
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 ### Step 1 — Clone the repository
 ```bash
@@ -166,7 +166,7 @@ The app will automatically open at `http://localhost:8501`
 
 ---
 
-## 📖 How to Use
+## How to Use
 
 ### Crop Advisor
 1. Navigate to **🌱 Crop Advisor** in the sidebar
@@ -184,7 +184,7 @@ The app will automatically open at `http://localhost:8501`
 
 ---
 
-## 🔬 ML Pipeline Summary
+## ML Pipeline Summary
 
 ```
 Raw Data
@@ -214,7 +214,7 @@ Deployment
 
 ---
 
-## 👤 Author
+## Author
 
 **Rounak**
 - GitHub: [@rounak2601](https://github.com/rounak2601)
@@ -222,7 +222,7 @@ Deployment
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License.
 
