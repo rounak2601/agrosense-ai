@@ -12,8 +12,8 @@ st.markdown("""
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=DM+Sans:wght@300;400;500;600&display=swap');
 
 html, body, [class*="css"] { font-family: 'DM Sans', sans-serif; background-color: #f0f7f2; }
-#MainMenu, footer, header { visibility: hidden; }
-[data-testid="collapsedControl"] { visibility: visible !important; display: block !important; position: fixed !important; top: 0.5rem !important; left: 0.5rem !important; z-index: 999999 !important; }
+#MainMenu, footer { visibility: hidden; }
+header { background: transparent; }
 .block-container { padding: 1.5rem 2rem 3rem; }
 
 [data-testid="stSidebar"] {
@@ -714,4 +714,5 @@ st.markdown("""
     Crop Accuracy: 99.32% &nbsp;·&nbsp; Yield R²: 0.9936 &nbsp;·&nbsp; 28 States + 8 Union Territories
 </div>
 """, unsafe_allow_html=True)
+
 
